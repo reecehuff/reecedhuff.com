@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study"
 collection: publications
-permalink: /publication/Torque-andMuscle-DrivenFlexion
+permalink: /publication/TorqueandMuscleDrivenFlexion
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). &quot;Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study.&quot; <i>Journal of Biomechanical Engineering</i>. 144(6).'
 ---
 [Download paper here](http://reecehuff.github.io/files/paper1.pdf)
 
