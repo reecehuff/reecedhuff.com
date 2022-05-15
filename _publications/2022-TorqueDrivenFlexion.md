@@ -14,21 +14,12 @@ citation: 'M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Mus
 M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).
 
 **BibTex:**
-
 @article{Zhou2022,
-
     author = {Zhou, Minhao and Huff, Reece D. and Abubakr, Yousuf and O'Connell, Grace D.},
-    
     title = "{Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study}",
-    
     journal = {Journal of Biomechanical Engineering},
-    
     volume = {144},
-    
     number = {6},
-    
     year = {2022},
-    
-    doi = {10.1115/1.4053402},
-    
+    doi = {10.1115/1.4053402} 
 }
