@@ -6,8 +6,11 @@ excerpt: '**Abstract:** The intervertebral disc is a complex structure that expe
 date: 2022-02-11
 venue: 'Journal of Biomechanical Engineering'
 paperurl: 'http://reecehuff.github.io/files/2022 - Torque- and Muscle-Driven Flexion Induce Disparate Risk of In Vitro Herniation.pdf'
-citation: 'M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).'
+citation: 'M Zhou, RD Huff, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
+
+
 [Download paper here](http://reecehuff.github.io/files/2022 - Torque- and Muscle-Driven Flexion Induce Disparate Risk of In Vitro Herniation.pdf)
 
 **Recommended citation:**
