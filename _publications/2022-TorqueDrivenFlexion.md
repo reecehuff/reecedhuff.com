@@ -3,7 +3,7 @@ title: "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Her
 collection: publications
 permalink: /publication/TorqueandMuscleDrivenFlexion
 date: 2022-02-21
-venue: 'Journal 1'
+venue: 'Journal of Biomechanical Engineering'
 paperurl: 'http://reecehuff.github.io/files/2022 - Torque- and Muscle-Driven Flexion Induce Disparate Risk of In Vitro Herniation.pdf'
 citation: 'M Zhou, **RD Huff**, Y Abubakr, G O @quot Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).'
 ---
@@ -15,7 +15,7 @@ citation: 'M Zhou, **RD Huff**, Y Abubakr, G O @quot Connell. (2022). "Torque- a
 **Recommended citation:**  
 M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).
 
-**BibTex:**  
+**BibTex:**
 <pre>
 @article{Zhou2022,  
     author = {Zhou, Minhao and Huff, Reece D. and Abubakr, Yousuf and O'Connell, Grace D.},
