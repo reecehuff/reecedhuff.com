@@ -8,19 +8,20 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study.&quot; <i>Journal 1</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://reecehuff.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**Recommended citation:**  
+M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).
 
 M Zhou, **RD Huff**, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).
 
-**BibTex:**
-@article{Zhou2022,
+**BibTex:**  
+@article{Zhou2022,  
     author = {Zhou, Minhao and Huff, Reece D. and Abubakr, Yousuf and O'Connell, Grace D.},
-    title = "{Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study}",
-    journal = {Journal of Biomechanical Engineering},
-    volume = {144},
-    number = {6},
-    year = {2022},
-    doi = {10.1115/1.4053402} 
+    title = "{Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study}",  
+    journal = {Journal of Biomechanical Engineering},  
+    volume = {144},  
+    number = {6},  
+    year = {2022},  
+    doi = {10.1115/1.4053402}  
 }
