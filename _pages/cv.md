@@ -33,5 +33,5 @@ Publications
   
 Awards
 ======
-* NSF GRFP
-* Goldwater Scholarship
+* [NSF GRFP](https://www.nsfgrfp.org/)
+* [Goldwater Scholarship](https://goldwaterscholarship.gov/)
