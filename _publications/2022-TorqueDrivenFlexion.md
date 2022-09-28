@@ -1,5 +1,5 @@
 ---
-title: "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study"
+title: "[Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study](https://asmedigitalcollection.asme.org/biomechanical/article/144/6/061005/1133336/Torque-and-Muscle-Driven-Flexion-Induce-Disparate)"
 collection: publications
 permalink: /publication/TorqueAndMuscleDrivenFlexionInduceDisparateRiskOfInVitroHerniation
 date: 2022-02-21
