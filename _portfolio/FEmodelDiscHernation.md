@@ -6,4 +6,6 @@ collection: portfolio
 
 test [[1]](https://www.sciencedirect.com/science/article/pii/S1076633206000134?casa_token=Lt9FqfoDOCEAAAAA:it71_AnfBZwtyYkzcN-sImB-Bj47Z2ET4gIiEgn-JYSC8oUr07ibMvilkaLxXGdyacSTBktuN3DN)
 
-<br/><img src='/images/DiscHerniationFE.gif'>
+<br/><img src='/images/DiscHerniationFE.png'>
+
+![test](/images/DiscHerniationFE.png)
