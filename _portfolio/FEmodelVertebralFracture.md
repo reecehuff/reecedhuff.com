@@ -1,6 +1,6 @@
 ---
 title: "Finite-element modeling of vertebral fractures"
-excerpt: "How can we use finite-element modeling to uncover how vertebral fracture initiates and propagates with age and disease? <br/><img src='/images/SeniorDesign.png' alt='test' width='800'/>"
+excerpt: "How can we use finite-element modeling to uncover how vertebral fracture initiates and propagates with age and disease? <br/><img src='/images/SeniorDesign.png' alt='test' width='600'/>"
 collection: portfolio
 ---
 
