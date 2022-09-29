@@ -14,7 +14,7 @@ M Zhou, **RD Huff**, Y Abubakr, G O'Connell
 
 <br/><img src='/images/DiscHerniationFE.png'>
 
-**Citation:**  
+**Citation: [link](https://asmedigitalcollection.asme.org/biomechanical/article/144/6/061005/1133336/Torque-and-Muscle-Driven-Flexion-Induce-Disparate)**  
 M Zhou, RD Huff, Y Abubakr, G O'Connell. (2022). "Torque- and Muscle-Driven Flexion Induce Disparate Risks of In Vitro Herniation: A Multiscale and Multiphasic Structure-Based Finite Element Study." <i>Journal of Biomechanical Engineering</i>. 144(6).
 
 **BibTex:**
