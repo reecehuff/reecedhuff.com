@@ -1,6 +1,6 @@
 ---
 title: "The study of vertebral fractures"
-excerpt: "How can we use medical imaging to elucidate on vertebral fracture mechanisms? <br/><img src='/images/CompressionCT.png'>"
+excerpt: "How can we use medical imaging to elucidate on vertebral fracture mechanisms? <br/><img src='/images/CompressionCT.png' alt='CompressionCT' width='600'/>"
 collection: portfolio
 ---
 
