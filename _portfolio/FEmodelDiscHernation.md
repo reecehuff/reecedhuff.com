@@ -1,6 +1,6 @@
 ---
 title: "Finite-element modeling of lumbar disc herniation"
-excerpt: "How can we use finite-element models to better understand lumbar disc herniation? <br/><img src='/images/DiscHerniationFE.png'>"
+excerpt: "How can we use finite-element models to better understand lumbar disc herniation? <br/><img src='/images/DiscHerniationFE.png' alt='DiscHerniation' width='600'/>"
 collection: portfolio
 ---
 
