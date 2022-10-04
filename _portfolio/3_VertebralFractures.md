@@ -12,6 +12,6 @@ understanding of the properties of the vertebra that control when and how it fai
 
 Therefore, the specific objectives of my project were: (1) to evaluate a multiresolution DVC approach for increases in speed; and (2) to create an independent verification program to evaluate the accuracy of the DVC results.
 
-Read my research essay that helped me win the Barry M. Goldwater Scholarship for more information: [link](papers/)
+Read my research essay that helped me win the Barry M. Goldwater Scholarship for more information: [link](https://github.com/reecehuff/reecehuff.github.io/blob/master/files/Huff_Goldwater_Essay.pdf).
 
 <br/><img src="/images/CompressionCT.png" alt="CompressionCT" width="800"/>
