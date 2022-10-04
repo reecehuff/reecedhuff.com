@@ -1,5 +1,5 @@
 ---
-title: "The study of vertebral fractures"
+title: "Optimizing Digital Volume Correlation to Study Vertebral Fractures"
 excerpt: "How can we use medical imaging to elucidate on vertebral fracture mechanisms? <br/><img src='/images/CompressionCT.png' alt='CompressionCT' width='600'/>"
 collection: portfolio
 ---
