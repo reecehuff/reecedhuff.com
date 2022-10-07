@@ -9,9 +9,9 @@ redirect_from:
 
 <!--- just {% include base_path %} --->
 
-# Resume and Curriculum Vitae
 ## [Resume](https://reecehuff.com/files/Huff_Resume.pdf) [Updated: October 7th, 2022]
 ## [CV](https://reecehuff.com/files/Huff_CV.pdf) [Updated: October 7th, 2022]
+## 
 
 # Highlights
 ## Education
