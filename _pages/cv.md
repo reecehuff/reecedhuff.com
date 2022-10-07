@@ -7,16 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!--- just {% include base_path %} --->
 
-Education
-======
+# Resume and Curriculum Vitae
+### [Resume](https://reecehuff.com/files/Huff_Resume.pdf) [Updated: October 7th, 2022]
+
+### [CV](https://reecehuff.com/files/Huff_CV.pdf) [Updated: October 7th, 2022]
+
+# Highlights
+### Education
 * B.S. in Biomedical Engineering, Boston University, 2021
 * M.S. in Mechanical Engineering, University of California, Berkeley, 2024 (expected)
 * Ph.D in Mechanical Engineering, University of California, Berkeley, 2026 (expected)
 
-Work experience
-======
+### Work experience
 * Fall 2021 - present: Graduate Research Assistant
   * University of Calfornia, Berkeley
   * Advisor: Professor Grace O'Connell
@@ -25,13 +29,11 @@ Work experience
   * Boston University's Orthopaedic and Developmental Biomechanics Laboratory
   * Advisors: Professor Elise Morgan and Professor Paul Barbone
 
-Publications
-======
+### Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
-======
+### Awards
 * [NSF GRFP](https://www.nsfgrfp.org/)
 * [Goldwater Scholarship](https://goldwaterscholarship.gov/)
