@@ -11,7 +11,8 @@ redirect_from:
 
 ## [Resume](https://reecehuff.com/files/Huff_Resume.pdf) [Updated: October 7th, 2022]
 ## [CV](https://reecehuff.com/files/Huff_CV.pdf) [Updated: October 7th, 2022]
-## 
+<br />
+<br />
 
 # Highlights
 ## Education
